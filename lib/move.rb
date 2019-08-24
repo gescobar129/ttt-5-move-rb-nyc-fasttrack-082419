@@ -9,4 +9,6 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(userInput)
+  input.to_i
+  #converts string into an integer
 end

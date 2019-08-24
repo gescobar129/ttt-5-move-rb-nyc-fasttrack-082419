@@ -12,3 +12,6 @@ def input_to_index(userInput)
   userInput.to_i - 1
   #converts string into an integer
 end
+
+def move
+end 

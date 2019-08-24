@@ -6,6 +6,9 @@ require_relative '../lib/move.rb'
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
+# board is a global variable, can be used throughout
+
+
 puts "Welcome to Tic Tac Toe!"
 
 user_input = gets.chomp

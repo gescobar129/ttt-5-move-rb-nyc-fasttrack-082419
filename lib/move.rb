@@ -13,5 +13,5 @@ def input_to_index(userInput)
   #converts string into an integer
 end
 
-def move(board, position, char)
+def move(board, position, char = "X")
 end 
